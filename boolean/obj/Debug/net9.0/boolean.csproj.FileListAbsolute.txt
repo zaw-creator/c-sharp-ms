@@ -1,0 +1,14 @@
+C:\c#\boolean\bin\Debug\net9.0\boolean.exe
+C:\c#\boolean\bin\Debug\net9.0\boolean.deps.json
+C:\c#\boolean\bin\Debug\net9.0\boolean.runtimeconfig.json
+C:\c#\boolean\bin\Debug\net9.0\boolean.dll
+C:\c#\boolean\bin\Debug\net9.0\boolean.pdb
+C:\c#\boolean\obj\Debug\net9.0\boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\boolean\obj\Debug\net9.0\boolean.AssemblyInfoInputs.cache
+C:\c#\boolean\obj\Debug\net9.0\boolean.AssemblyInfo.cs
+C:\c#\boolean\obj\Debug\net9.0\boolean.csproj.CoreCompileInputs.cache
+C:\c#\boolean\obj\Debug\net9.0\boolean.dll
+C:\c#\boolean\obj\Debug\net9.0\refint\boolean.dll
+C:\c#\boolean\obj\Debug\net9.0\boolean.pdb
+C:\c#\boolean\obj\Debug\net9.0\boolean.genruntimeconfig.cache
+C:\c#\boolean\obj\Debug\net9.0\ref\boolean.dll

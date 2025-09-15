@@ -1,0 +1,15 @@
+C:\c#\c-sharp-ms\patient-project\bin\Debug\net9.0\patient-project.exe
+C:\c#\c-sharp-ms\patient-project\bin\Debug\net9.0\patient-project.deps.json
+C:\c#\c-sharp-ms\patient-project\bin\Debug\net9.0\patient-project.runtimeconfig.json
+C:\c#\c-sharp-ms\patient-project\bin\Debug\net9.0\patient-project.dll
+C:\c#\c-sharp-ms\patient-project\bin\Debug\net9.0\patient-project.pdb
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.AssemblyInfoInputs.cache
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.AssemblyInfo.cs
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.csproj.CoreCompileInputs.cache
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.sourcelink.json
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.dll
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\refint\patient-project.dll
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.pdb
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\patient-project.genruntimeconfig.cache
+C:\c#\c-sharp-ms\patient-project\obj\Debug\net9.0\ref\patient-project.dll

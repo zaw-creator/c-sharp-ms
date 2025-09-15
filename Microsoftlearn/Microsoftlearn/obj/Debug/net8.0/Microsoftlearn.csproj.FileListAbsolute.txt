@@ -1,0 +1,14 @@
+C:\c#\Microsoftlearn\Microsoftlearn\bin\Debug\net8.0\Microsoftlearn.exe
+C:\c#\Microsoftlearn\Microsoftlearn\bin\Debug\net8.0\Microsoftlearn.deps.json
+C:\c#\Microsoftlearn\Microsoftlearn\bin\Debug\net8.0\Microsoftlearn.runtimeconfig.json
+C:\c#\Microsoftlearn\Microsoftlearn\bin\Debug\net8.0\Microsoftlearn.dll
+C:\c#\Microsoftlearn\Microsoftlearn\bin\Debug\net8.0\Microsoftlearn.pdb
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.AssemblyInfoInputs.cache
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.AssemblyInfo.cs
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.csproj.CoreCompileInputs.cache
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.dll
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\refint\Microsoftlearn.dll
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.pdb
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\Microsoftlearn.genruntimeconfig.cache
+C:\c#\Microsoftlearn\Microsoftlearn\obj\Debug\net8.0\ref\Microsoftlearn.dll

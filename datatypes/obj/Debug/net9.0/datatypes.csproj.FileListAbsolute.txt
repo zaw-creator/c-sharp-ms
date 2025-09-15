@@ -1,0 +1,14 @@
+C:\c#\datatypes\bin\Debug\net9.0\datatypes.exe
+C:\c#\datatypes\bin\Debug\net9.0\datatypes.deps.json
+C:\c#\datatypes\bin\Debug\net9.0\datatypes.runtimeconfig.json
+C:\c#\datatypes\bin\Debug\net9.0\datatypes.dll
+C:\c#\datatypes\bin\Debug\net9.0\datatypes.pdb
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.AssemblyInfoInputs.cache
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.AssemblyInfo.cs
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.csproj.CoreCompileInputs.cache
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.dll
+C:\c#\datatypes\obj\Debug\net9.0\refint\datatypes.dll
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.pdb
+C:\c#\datatypes\obj\Debug\net9.0\datatypes.genruntimeconfig.cache
+C:\c#\datatypes\obj\Debug\net9.0\ref\datatypes.dll

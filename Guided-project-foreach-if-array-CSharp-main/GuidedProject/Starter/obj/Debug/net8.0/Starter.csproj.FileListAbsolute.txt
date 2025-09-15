@@ -1,0 +1,14 @@
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\c#\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll

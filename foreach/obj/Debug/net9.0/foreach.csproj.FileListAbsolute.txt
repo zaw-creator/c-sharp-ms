@@ -1,0 +1,14 @@
+C:\c#\foreach\bin\Debug\net9.0\foreach.exe
+C:\c#\foreach\bin\Debug\net9.0\foreach.deps.json
+C:\c#\foreach\bin\Debug\net9.0\foreach.runtimeconfig.json
+C:\c#\foreach\bin\Debug\net9.0\foreach.dll
+C:\c#\foreach\bin\Debug\net9.0\foreach.pdb
+C:\c#\foreach\obj\Debug\net9.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\foreach\obj\Debug\net9.0\foreach.AssemblyInfoInputs.cache
+C:\c#\foreach\obj\Debug\net9.0\foreach.AssemblyInfo.cs
+C:\c#\foreach\obj\Debug\net9.0\foreach.csproj.CoreCompileInputs.cache
+C:\c#\foreach\obj\Debug\net9.0\foreach.dll
+C:\c#\foreach\obj\Debug\net9.0\refint\foreach.dll
+C:\c#\foreach\obj\Debug\net9.0\foreach.pdb
+C:\c#\foreach\obj\Debug\net9.0\foreach.genruntimeconfig.cache
+C:\c#\foreach\obj\Debug\net9.0\ref\foreach.dll
